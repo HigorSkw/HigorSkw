@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=higorskw&color=blue" alt="Profile views" /> </p>
 
 
-- 🌱 Estou estudando a linguagem Python e Django para aperfeiçoar meus conhecimentos como fullstack
+- 🌱 Estou trabalhando como desenvolvedor fullstack em uma empresa que nunca imaginei entrar...
 - 👨‍🎓 Sou formado em Administração
 - 🏐 Gosto de voleibol e pratico este esporte, pois você aprende a confiar nos seus companheiros de time.
 
